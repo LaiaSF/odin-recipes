@@ -1,0 +1,40 @@
+html {
+    font-family: Tahoma, sans-serif;
+}
+
+h1 {
+    color: rgb(130, 191, 180);
+    font-size: 57px;
+    font-family: "Brush Script MT";
+}
+
+h2 {
+    color: rgb(47, 159, 138);
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+p,
+ul,
+ol {
+    font-family: "Trebuchet MS";
+}
+
+
+/* index.html */
+#main-title {
+    color: white;
+    background-color: rgb(47, 159, 138);
+    text-align: center;
+    font-weight: 600;
+    font-family: Tahoma, sans-serif;
+
+}
+
+.home-navigation a {
+    color: black;
+    font-family: Verdana, sans-serif;
+}
